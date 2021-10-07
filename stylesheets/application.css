@@ -1,3 +1,5 @@
+
+/* source : https://github.com/toiiggww/BlackAlternate/ */ 
 @import url(../../../stylesheets/application.css);
 
 body, #wrapper { background-color:#333; color: #ddd;}
@@ -114,3 +116,8 @@ table.list td.buttons a:last-child , div.buttons a:last-child { background-color
 table.list tr.issue a.icon-only { background-color: #900;}
 table.list tr.issue a.icon-actions { background-color: #009;}
 
+div.wiki pre { background: transparent;}
+.syntaxhl { background-color: #fdb;}
+.syntaxhl .n, .syntaxhl .p{ color: #333;}
+.wiki-preview { background-color: #333;}
+.syntaxhl .s, .syntaxhl .s2 { background-color: #333; color: #bbb;}
